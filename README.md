@@ -10,7 +10,7 @@
 
 **Through the total loss function composed of content loss function and style loss function, the generated image combines the characteristics of content image and style image to realize style transfer.**
 
-**The value of the loss function is calculated by the Gram matrix after output from the model constructed by the convolution layer in the VGG-19 imported by tensorflow**
+**The value of the loss function is calculated by the Gram matrix after output from the model constructed by the convolution layer in the VGG-19 imported by tensorflow.**
 
 Run main.py
 
